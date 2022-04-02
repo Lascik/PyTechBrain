@@ -5,7 +5,7 @@ import time
 if __name__ == '__main__':
     board = ptb.PyTechBrain()
     
-    Zmiana jasnosci RGB
+    # - Zmiana jasnosci RGB
     while True:
         x = board.potencjometr_raw()
 
